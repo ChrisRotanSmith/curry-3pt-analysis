@@ -1,4 +1,4 @@
-![Steph Curry 3PT Analysis Cover](![Steph Curry 3PT%   Scoring Analysis_ _SQL + Tableau _ 2024–25 NBA Season](https://github.com/user-attachments/assets/efdaf195-6f85-491c-93ed-eddaf4012049)
+(![Steph Curry 3PT%   Scoring Analysis_ _SQL + Tableau _ 2024–25 NBA Season](https://github.com/user-attachments/assets/efdaf195-6f85-491c-93ed-eddaf4012049)
 )
 # Steph Curry 3PT% and Scoring Analysis (SQL + Tableau)
 
